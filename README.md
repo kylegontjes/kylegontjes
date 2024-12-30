@@ -2,6 +2,7 @@
 - 👀 I’m interested in comparative genomics, phylogenetics, and evolution.
 - 🌱 I’m currently learning: R, linux, python, and SAS.
 - 📫 How to reach me: kgontjes@umich.edu
+- :pencil2: A collection of useful code snippets: https://gist.github.com/kylegontjes
 
 <h4> GitHub contributions </h4>
 
