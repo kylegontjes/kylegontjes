@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kylegontjes
-- 👀 I’m interested in comparative genomics, phylogenetics, and evolution.
-- 🌱 I’m currently learning: R, linux, python, and SAS.
+- 👀 I’m interested in antibacterial resistance, genomic epidemiology, comparative genomics, phylogenetics, and evolution.
+- 🌱 I’m proficient in: R, linux, and SAS
+- 🌱 I'm learning: python
 - 📫 How to reach me: kgontjes@umich.edu
 - :pencil2: A collection of useful code snippets: https://gist.github.com/kylegontjes
 
